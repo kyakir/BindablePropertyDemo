@@ -29,7 +29,7 @@
             </Grid>
             <StackLayout Spacing="0" Grid.Row="1">
                 <custom:MyCustomControl BackgroundColor="#76dab2" 
-                                    TitleText="BASKETBALL" 
+                                    TitleText="BASKETBALLyakiraddedthis" 
                                     Image="basketball.png"/>
 
                 <custom:MyCustomControl BackgroundColor="#7c57e4" 
